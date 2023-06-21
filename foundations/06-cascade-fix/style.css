@@ -25,13 +25,11 @@ body {
   font-size: 20px;
 }
 
-.button.confirm {
+#cancel-button {
   background: green;
   color: white;
   font-weight: bold;
 } 
-
-
 
 
 div {
