@@ -12,23 +12,24 @@ body {
 .title {
   background: #e3f4ff;
   padding: 15px;
-  margin: 15px;
+  margin: 8px;
 }
 
 .content {
   background: #e3f4ff;
   padding: 15px;
-  margin: 15px;
+  margin: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
   padding: 15px auto 15px;
-  margin: 15px;
+  margin: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  padding: 15px 35px;
+  padding: 8px 15px;
+  display: block;
 }
