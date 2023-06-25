@@ -24,3 +24,12 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Added */
+.main-container {
+  display: flex;
+}
+
+.images-container {
+  
+}
