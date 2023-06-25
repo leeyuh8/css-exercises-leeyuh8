@@ -15,7 +15,12 @@ body {
 
   display: flex;
   align-items: center;
+}
 
+/* Added */
+.links {
+  display: flex;
+  align-items: center;
 }
 
 .profile-image {
