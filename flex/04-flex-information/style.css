@@ -37,5 +37,10 @@ img {
 /* Added */
 .images-container {
   display: flex;
+  gap: 52px;
 }
 
+/* Added */
+.images-container > * {
+  width: 200px;
+}
