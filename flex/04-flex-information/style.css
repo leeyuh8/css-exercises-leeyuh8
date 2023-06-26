@@ -27,6 +27,7 @@ img {
   background: #eee;
 }
 
+
 /* Added */
 .main-container {
   display: flex;
@@ -34,13 +35,21 @@ img {
   align-items: center;
 }
 
-/* Added */
 .images-container {
   display: flex;
   gap: 52px;
 }
 
-/* Added */
 .images-container > * {
   width: 200px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+
+.text {
+  text-align: center;
 }
