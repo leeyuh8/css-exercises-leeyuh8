@@ -6,7 +6,6 @@ body {
   overflow: hidden;
   font-family: Roboto, sans-serif;
 
-  padding: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -55,6 +54,7 @@ a {
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  padding: 15px;
 }
 
 .content {
@@ -71,4 +71,8 @@ a {
 
 .button2 {
   width: 140px;
+}
+
+.footer {
+  background-color: lightgray;
 }
