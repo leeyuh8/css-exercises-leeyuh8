@@ -20,6 +20,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+
+  height: 30px;
 }
 
 input {
@@ -61,4 +63,12 @@ a {
   align-items: center;
   flex-grow: 1;
   justify-content: center;
+}
+
+.button1 {
+  width: 105px;
+}
+
+.button2 {
+  width: 140px;
 }
