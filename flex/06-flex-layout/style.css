@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+
+  padding: 20px;
 }
 
 img {
@@ -27,6 +29,11 @@ input {
 }
 
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 li {
   list-style: none;
 }
@@ -36,15 +43,12 @@ a {
   color: black;
 }
 
-
 .left-links, .right-links {
   display: flex;
-  justify-content: space-between;
+  gap: 20px;
 }
 
-
-.header > *, .footer > * {
+.header, .footer {
   display: flex;
-
-
+  justify-content: space-between;
 }
