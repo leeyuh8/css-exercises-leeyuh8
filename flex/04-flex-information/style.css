@@ -1,5 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+
+  text-align: center;
 }
 
 img {
@@ -44,7 +46,7 @@ img {
   width: 200px;
 }
 
-img {
+/* img {
   display: block;
   margin: auto;
 }
@@ -52,4 +54,4 @@ img {
 
 .text {
   text-align: center;
-}
+} */
