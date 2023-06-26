@@ -36,6 +36,13 @@ a {
   color: black;
 }
 
+
+.left-links, .right-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+
 .header > *, .footer > * {
   display: flex;
 
