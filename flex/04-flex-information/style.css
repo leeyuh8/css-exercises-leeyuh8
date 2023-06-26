@@ -28,8 +28,5 @@ img {
 /* Added */
 .main-container {
   display: flex;
-}
-
-.images-container {
-  
+  flex-direction: column;
 }
