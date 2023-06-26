@@ -79,6 +79,8 @@ button.cancel {
 .header-close {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
 }
 
 .header {
@@ -87,5 +89,5 @@ button.cancel {
 }
 
 .text {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
