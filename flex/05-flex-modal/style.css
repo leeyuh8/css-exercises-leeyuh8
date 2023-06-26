@@ -22,7 +22,6 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 
   display: flex;
-  flex: 
 }
 
 .icon {
@@ -71,4 +70,11 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+
+
+.header-close {
+  display: flex;
+  justify-content: space-between;
 }
