@@ -38,3 +38,15 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  padding: 32px;
+}
+
+.cards > * {
+  width: 300px;
+  padding: 16px;
+}
