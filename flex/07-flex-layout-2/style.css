@@ -80,7 +80,9 @@ a {
   padding-left: 16px;
 }
 
-.header-text {
-
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
