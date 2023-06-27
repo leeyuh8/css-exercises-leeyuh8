@@ -37,6 +37,7 @@ body {
 .content {
   display: flex;
   flex-direction: row;
+  flex-grow: 1;
 }
 
 .cards {
@@ -86,3 +87,7 @@ a {
   align-items: center;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+}
